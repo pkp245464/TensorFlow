@@ -250,15 +250,4 @@ t_conn
 
 t_conn.assign([6,7,8,9,10])
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
+#tCreate a computational model using TensorFlow for addition,multiplication,division and subtraction operation
