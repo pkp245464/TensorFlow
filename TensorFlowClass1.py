@@ -251,3 +251,5 @@ t_conn
 t_conn.assign([6,7,8,9,10])
 
 #tCreate a computational model using TensorFlow for addition,multiplication,division and subtraction operation
+mat_A = tf.Variable([1,2,3,4,5])
+mat_A
